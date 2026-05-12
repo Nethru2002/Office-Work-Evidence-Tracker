@@ -1,5 +1,3 @@
----
-
 # 📋 ProTracker: Professional Office Audit & Evidence System
 
 **ProTracker** is a high-precision, automated task monitoring tool developed to provide undeniable visual and chronological proof of work activity. Designed for professionals who need to verify their productivity to office authorities, it combines real-time window tracking, automated watermarked screenshots, and professional PDF report generation.
